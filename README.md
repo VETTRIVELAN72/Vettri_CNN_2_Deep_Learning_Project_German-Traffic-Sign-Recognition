@@ -1,0 +1,2 @@
+# Vettri_CNN_2_Deep_Learning_Project_German-Traffic-Sign-Recognition
+ CNN_German-traffic-signal  ## 📌 Project Overview This project implements a **Convolutional Neural Network (CNN)** for classifying traffic signs using the **GTSRB - German Traffic Sign Dataset** from Kaggle:   [German Traffic Sign Recognition Benchmark (GTSRB)](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
